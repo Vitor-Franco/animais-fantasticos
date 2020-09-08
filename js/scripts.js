@@ -32,7 +32,7 @@ fetchBitcoin('https://blockchain.info/ticker', '.btc-preco');
 const scrollAnima = new ScrollAnima('[data-scroll="scroll"]');
 scrollAnima.init();
 
-initAnimacaoScroll();
+// initAnimacaoScroll();
 initDropDownMenu();
 initMenuMobile();
 initFuncionamento();
