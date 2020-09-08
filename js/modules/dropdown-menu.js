@@ -34,7 +34,6 @@ export default class DropdownMenu {
 
   init() {
     if (this.dropdownMenu.length) {
-      console.log('entra?');
       this.addDropdownMenusEvent();
     }
     return this;
